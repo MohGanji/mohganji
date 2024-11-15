@@ -1,4 +1,12 @@
-## Hi there 👋
+Genralist software engineer with 5 years of experience and a holistic approach to build, deployment, scale, and maintenance of reliable systems. Open-source enthusiast.
+
+### My Stackoverflow Profile
+
+<a href="https://stackexchange.com/users/9448040/mo-ganji"><img src="https://stackexchange.com/users/flair/9448040.png" width="208" height="58" alt="profile for Mo Ganji on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Mo Ganji on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
+
+[Linkedin Profile](https://www.linkedin.com/in/mohganji/) 
+
+[My personal website](https://ganji.blog)
 
 <!--
 **MohGanji/mohganji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
