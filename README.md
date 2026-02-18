@@ -1,4 +1,4 @@
-Generalist software engineer with 6+ years of experience and a holistic approach to building, deploying, scaling, and maintaining reliable systems. Open-source enthusiast. Currently working at [TrustFlight](https://www.trustflight.com/).
+I'm a generalist software engineer with 6+ years of experience and a holistic approach to building, deploying, scaling, and maintaining reliable systems. Open-source enthusiast. Currently working at [TrustFlight](https://www.trustflight.com/).
 
 
 - **[LinkedIn Profile](https://www.linkedin.com/in/mohganji/)**
